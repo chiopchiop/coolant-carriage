@@ -1,4 +1,4 @@
-# coolant-carriage
+I'm not# coolant-carriage
 A computer numerical control (CNC) machine is used to cut and shape materials to form prototypes. A coolant is often used to act as a lubricant to aid a CNC machine to easily cut materials such as metals, fibreglass, high-density plastics, etc. It also helps to keep the workplace free of particles and debris coming from the workpiece the operator is cutting. The current CNC machine the our lab is using does not have a proper coolant system, a manual siphon system is used instead i.e. A tube immersed in a container of water is hand raised to different heights to allow the coolant to flow down to the coolant jet in the CNC machine at different pressures. Feedback from CNC machine operators indicates that the manual siphon system is both inefficient and tiring, disrupting workflow and causing user fatigue. In this project, a coolant carriage will be designed to hold the container and is free to slide smoothly vertically along an aluminium V profile. 
 
 **Table of contents**\
@@ -32,18 +32,18 @@ See .stl file for 3D printing instructions
 |5 |3D printed bracket      |-    |4 |
 |6 |3D printed caps |-    |2 |
 |7 |3D printed bottle cap       |35mm |4 |
-|8 |V slot aluminium profile 40x20 |-    |1 |
+|8 |V slot aluminium profile 40x20 |500mm   |1 |
 |9 |V slot aluminium profile 20x20 |203mm/8inch |2 |
-|10 |M5 heat insert |-    |2 |
+|10 |M5 heat insert 6x7 |-    |2 |
 |11 |M5 screw |6mm    |2 |
 |12 |M5 screw       |35mm |6 |
 |13 |M5 screw      |8mm    |6 |
 |14 |M5 roll-in nut      |-    |2 |
-|15 |M5 spacer      |-    |2 |
+|15 |M5 spacer      |8mm    |2 |
 |16 |M5 washer      |-    |4 |
 |17 |M5 nut      |-    |4 |
-|18 |M5 eccentric screw      |-    |2 |
-|19 |M3 heat insert      |-    |2 |
+|18 |M5 eccentric screw      |8mm    |2 |
+|19 |M3 heat insert 4.6x5.7     |-    |2 |
 |20 |M3 flathead screw |6mm    |8 |
 |21 |M3 screw |6mm    |2 |
 |22 |M3 screw       |8mm |4 |
