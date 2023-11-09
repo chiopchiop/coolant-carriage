@@ -1,5 +1,5 @@
 # 🚟coolant-carriage
-A computer numerical control (CNC) machine is used to cut and shape materials to form prototypes. A coolant is often used to act as a lubricant to aid a CNC machine to easily cut materials such as metals, fibreglass, high-density plastics, etc. It also helps to keep the workplace free of particles and debris coming from the workpiece the operator is cutting. The current CNC machine the our lab is using does not have a proper coolant system, a manual siphon system is used instead i.e. A tube immersed in a container of water is hand raised to different heights to allow the coolant to flow down to the coolant jet in the CNC machine at different pressures. Feedback from CNC machine operators indicates that the manual siphon system is both inefficient and tiring, disrupting workflow and causing user fatigue. In this project, a coolant carriage will be designed to hold the container and is free to slide smoothly vertically along an aluminium V profile. 
+A computer numerical control (CNC) machine is used to cut and shape materials to form prototypes. A coolant is often used to act as a lubricant to aid a CNC machine to easily cut materials such as metals, fibreglass, high-density plastics, etc. The majority of the workload in the lab involves machining aluminium, which is work-hardening material. This necessitates the use of a coolant to promptly remove generated chips from the work area and prevent them from becoming caught in the endmill. If chips become trapped, they can mar the workpiece, alter the required cutting force, and induce chattering. The current CNC machine in the lab uses a Minimum Quantity Lubrication (MQL) system. In such systems, the amount of coolant in the airstream is set by adjusting the pressure of the coolant takeup tube. In larger industrial systems, a metering valve is used. However, this is performed using height adjustment with a manual siphon system i.e. A tube immersed in a container of 99% Isopropyl Alcohol (IPA) is hand raised to different heights to allow the coolant to flow down to the coolant jet in the CNC machine at different pressures (Figure 2-1). Feedback from CNC machine operators indicates that the manual siphon system is both inefficient and tiring, disrupting workflow and causing user fatigue. In this project, a coolant carriage will be designed to hold the container and is free to slide smoothly vertically along an aluminium V profile. 
 
 <img src='https://github.com/chiopchiop/coolant-carriage/assets/135982821/43da6db5-81fe-4188-a36a-bb93a10dd1d2)' width='500'>\
 *Figure 1. Full coolant carriage set up*
@@ -11,8 +11,7 @@ A computer numerical control (CNC) machine is used to cut and shape materials to
 
 ## Proposed idea: V slot gantry plate with carriage on three V slot aluminium profiles
 
-
-
+<img src='https://github.com/chiopchiop/coolant-carriage/assets/135982821/4e79385d-3194-4227-a27d-77fc4e4067c3)' width='500'>\
 *Figure 2. Initial setup vs proposed setup and the components to be designed*
 
 ### Bill of Materials (BOM)
