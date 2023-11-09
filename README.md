@@ -14,7 +14,7 @@ A computer numerical control (CNC) machine is used to cut and shape materials to
 <img src='https://github.com/chiopchiop/coolant-carriage/assets/135982821/4e79385d-3194-4227-a27d-77fc4e4067c3)' width='500'>\
 *Figure 2. Initial setup vs proposed setup and the components to be designed*
 
-### Bill of Materials (BOM)
+## Bill of Materials (BOM)
 List of components for the carriage to be 3D modelled with Fusion 360:
 - V slot gantry plate to slide along the aluminium profile (Plate)
 - Ratchet and pawl to move/stop carriage along the V profile (Ratchet) (Pawl)
@@ -127,7 +127,7 @@ See .stl file for 3D printing files/instructions
 <img src='https://github.com/chiopchiop/coolant-carriage/assets/135982821/d3697def-279d-459c-9040-4f07ae726336' alt= 'Assembly diagram_finalproduct' width='500'>\
 *Figure 8. Completed coolant carriage*
 
-### How to use
+## How to use
 https://youtube.com/shorts/JxCeHPnCB4s
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=JxCeHPnCB4s
