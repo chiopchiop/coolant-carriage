@@ -23,36 +23,38 @@ List of components for the carriage to be 3D modelled with Fusion 360:
 - Caps to protect against the sharp edges of the aluminium profiles (Caps)
 - Bottle cap that is able to hold the siphon (Bottle cap)
 
-See .stl file for 3D printing instructions
+See .stl file for 3D printing files/instructions
 
 **Consolidated materials**
 | Item # | Components  | Length | Qty |
 | --- | --- | --- | ---|
-|1 |3D printed plate |-    |2 |
-|2 |3D printed pawl  |- |4 |
+|1 |3D printed plate |-    |1 |
+|2 |3D printed pawl  |- |1 |
 |3 |3D printed ratchet tiles      |-    |2 |
-|4 |3D printed carriage      |-    |4 |
-|5 |3D printed bracket      |-    |4 |
-|6 |3D printed caps |-    |2 |
-|7 |3D printed bottle cap   |- |4 |
-|8 |V slot aluminium profile 40x20 |500mm   |1 |
-|9 |V slot aluminium profile 20x20 |203mm/8inch |2 |
-|10 |M5x6x7 heat insert  |-    |2 |
-|11 |M5 screw |6mm    |2 |
-|12 |M5 screw       |35mm |6 |
-|13 |M5 screw      |8mm    |6 |
-|14 |M5 roll-in nut      |-    |2 |
-|15 |M5 spacer      |8mm    |2 |
-|16 |M5 washer      |-    |4 |
-|17 |M5 nut      |-    |4 |
-|18 |M5 eccentric screw      |8mm    |2 |
-|19 |M3x4.6x5.7 heat insert      |-    |2 |
-|20 |M3 flathead screw |6mm    |8 |
-|21 |M3 screw |6mm    |2 |
-|22 |M3 screw       |8mm |4 |
-|23 |M3 roll-in nut       |- |8 |
-|24 |M3 Rubber feet |-    |4 |
-|25 |M3 roll-in nut |-    |4 |
+|4 |3D printed carriage (backing)  |-  |1 |
+|5 |3D printed carriage (clamp)  |-    |1 |
+|6 |3D printed bracket      |-    |1 |
+|7 |3D printed cap 40x20 |-    |1 |
+|8 |3D printed cap 20x20 |-    |2 |
+|9 |3D printed bottle cap   |- |1 |
+|10 |V slot aluminium profile 40x20 |500mm   |1 |
+|11 |V slot aluminium profile 20x20 |203mm/8inch |2 |
+|12 |M5x6x7 heat insert  |-    |2 |
+|13 |M5 screw |6mm    |2 |
+|14 |M5 screw       |35mm |6 |
+|15 |M5 screw      |8mm    |6 |
+|16 |M5 roll-in nut      |-    |2 |
+|17 |M5 spacer      |8mm    |2 |
+|18 |M5 washer      |-    |4 |
+|19 |M5 nut      |-    |4 |
+|20 |M5 eccentric screw      |8mm    |2 |
+|21 |M3x4.6x5.7 heat insert      |-    |2 |
+|22 |M3 flathead screw |6mm    |8 |
+|23 |M3 screw |6mm    |2 |
+|24 |M3 screw       |8mm |4 |
+|25 |M3 roll-in nut       |- |8 |
+|26 |M3 Rubber feet |-    |4 |
+|27 |M3 roll-in nut |-    |4 |
 
 
 **Assembling Plate x 1**
