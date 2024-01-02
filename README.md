@@ -68,7 +68,7 @@ See .stl file for 3D printing files/instructions
 |7 |M3x4.6x5.7 heat insert      |-    |2 |
 
 <img src='https://github.com/chiopchiop/coolant-carriage/assets/135982821/5b265070-e9e2-403f-9ab4-1dc96963aafe' width='250'>\
-*Figure 3. Position of heat inserts on the plate. Ignore the workmanship:grin:*
+*Figure 3. Position of heat inserts on the plate. Ignore the workmanship :grin:*
 
 <img src='https://github.com/chiopchiop/coolant-carriage/assets/135982821/267ee97f-0ec3-48aa-bd41-bda63bfb1af7' alt= 'Assembly diagram_plate2' width='400'>\
 *Figure 4. Assembling the wheels of the plate. Wheels on the left side will be fixed, while wheels on the right can be adusted with the eccentric nut*
