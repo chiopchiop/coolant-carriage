@@ -22,7 +22,7 @@ List of components for the carriage to be 3D modelled with Fusion 360:
 - Caps to protect against the sharp edges of the aluminium profiles (Caps)
 - Bottle cap that is able to hold the siphon (Bottle cap)
 
-See .stl file for 3D printing files/instructions
+STL files, quantity, and orientation of the part are in the the STL files folder
 
 **Consolidated materials**
 | Item # | Components  | Length | Qty |
